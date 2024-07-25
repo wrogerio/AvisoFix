@@ -1,5 +1,6 @@
 ﻿Console.Clear();
 
+// - 61229
 
 Console.WriteLine("Resetando o banco de dados...");
 AvisoFix.Context.IgecexContext.resetDatabase();
